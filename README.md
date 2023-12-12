@@ -2,8 +2,7 @@
 Predicting customer churn for ConnectTel Telecom. Leverage advanced analytics and machine learning to forecast potential churners, enhancing customer loyalty in the dynamic telecom industry.
 
 ## Project Descriotion
-ConnectTel, a leading telecommunications company, faces a critical challenge in customer churn, jeopardizing its business sustainability. A  Data Scientist is needed to develop a precise and effective customer churn prediction system. By leveraging advanced analytics and machine learning on existing customer data, the project aims to accurately forecast churn and implement targeted retention initiatives.
-This proactive strategy is geared towards reducing customer attrition, enhancing loyalty, and securing ConnectTel's competitive edge in the dynamic telecommunications industry. As you embark on this data-driven journey, the focus is on empowering ConnectTel to fortify customer relationships and thrive in the digital age.
+ConnectTel, a leading telecommunications company, faces a critical challenge in customer churn, jeopardizing its business sustainability. As A Data Scientist, I developed a precise and effective customer churn prediction system. By leveraging advanced analytics and machine learning on existing customer data, the project aims to accurately forecast churn and implement targeted retention initiatives. This proactive strategy is geared towards reducing customer attrition, enhancing loyalty, and securing ConnectTel's competitive edge in the dynamic telecommunications industry. As you embark on this data-driven journey, the focus is on empowering ConnectTel to fortify customer relationships and thrive in the digital age.
 
 ## Steps Taken:
 #### Data Cleaning and Exploration:
